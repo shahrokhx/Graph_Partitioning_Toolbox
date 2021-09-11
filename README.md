@@ -11,7 +11,7 @@ __some library are used to generate the graphs__
 
 ### Details
 
-* For more information about the details, see <a href="https://www.sshahi.com/projects/tlbx-1-graph/" target="\_blank">my blog post</a>.
+* For more information about the details, see <a href="https://www.sshahi.com/projects/tlbx-1-graph/" target="_blank">my blog post</a>.
 
 ### Sample run
 
